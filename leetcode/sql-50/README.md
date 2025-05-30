@@ -12,7 +12,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 
 ---
 
-## Progress
+## 📈 Progress
 - ✅ 11 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
