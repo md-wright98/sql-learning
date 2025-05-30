@@ -6,3 +6,5 @@
 SELECT name
 FROM Customer
 WHERE referee_id <> 2 OR referee_id IS NULL
+
+# Need to use WHERE to filter for rows where referee id does not equal 2, NULL rows resolve as unknowns so needed to include IS NULL as well
