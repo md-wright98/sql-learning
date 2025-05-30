@@ -31,6 +31,7 @@ Each problem includes:
 | [1148](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) | Article Views I | `DISTINCT` |
 | [1683](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Invalid Tweets | `LENGTH()`, logical filtering |
 | [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50) | Replace Employee ID With The Unique Identifier | `LEFT JOIN`, joins |
+| [1068](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) | Product Sales Analysis I | `LEFT JOIN`, joins |
 
 ---
 
