@@ -6,3 +6,5 @@
 SELECT product_id
 FROM Products
 WHERE low_fats = 'Y' AND recyclable = 'Y'
+
+# simple problem - just need to filter for rows that meet both conditions using WHERE
