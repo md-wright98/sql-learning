@@ -35,6 +35,7 @@ Each problem includes:
 | [1582](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50) | Customer Who Visited but Did Not Make Any Transactions | `LEFT JOIN`, joins |
 | [577](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) | Employee Bonus | `LEFT JOIN`, joins |
 | [620](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | Not Boring Movies | filtering, ordering |
+| [1075](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | Project Employees I | `AVG`, aggregates |
 ---
 
 ## 🛠️ Tech Used
