@@ -26,9 +26,9 @@ Each problem includes:
 |---|-------|----------|
 | [1757](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Recyclable and Low Fat Products | `WHERE`, logical filtering |
 | [584](https://leetcode.com/problems/find-customer-referee/) | Find Customer Referee | `IS NULL`, filtering |
-| [595] (https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Big Countries | `OR`, filtering |
-| [1148] (https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) | Article Views I | `DISTINCT` |
-| [1683] (https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Invalid Tweets | `LENGTH()`, logical filtering |
+| [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Big Countries | `OR`, filtering |
+| [1148](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) | Article Views I | `DISTINCT` |
+| [1683](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Invalid Tweets | `LENGTH()`, logical filtering |
 
 ---
 
