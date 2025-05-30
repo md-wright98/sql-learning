@@ -16,7 +16,8 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 
 Each problem includes:
 - A brief description and LeetCode link  
-- The SQL query I used to solve it  
+- The SQL query I used to solve it
+- A brief summary of the logic used to solve the problem
 
 ---
 
