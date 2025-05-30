@@ -34,7 +34,7 @@ Each problem includes:
 | [1068](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50) | Product Sales Analysis I | `LEFT JOIN`, joins |
 | [1582](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50) | Customer Who Visited but Did Not Make Any Transactions | `LEFT JOIN`, joins |
 | [577](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) | Employee Bonus | `LEFT JOIN`, joins |
-
+| [620](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | Not Boring Movies | filtering, ordering |
 ---
 
 ## 🛠️ Tech Used
