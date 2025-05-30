@@ -30,6 +30,7 @@ Each problem includes:
 | [595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50) | Big Countries | `OR`, filtering |
 | [1148](https://leetcode.com/problems/article-views-i/?envType=study-plan-v2&envId=top-sql-50) | Article Views I | `DISTINCT` |
 | [1683](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50) | Invalid Tweets | `LENGTH()`, logical filtering |
+| [1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50) | Replace Employee ID With The Unique Identifier | `LEFT JOIN`, joins |
 
 ---
 
