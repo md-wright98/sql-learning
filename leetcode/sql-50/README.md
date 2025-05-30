@@ -1,6 +1,6 @@
 # 🧠 LeetCode SQL 50 — Learning & Practice Portfolio
 
-This repo is a structured record of my progress through the **LeetCode SQL 50** learning path.
+This repo is a structured record of my progress through the **LeetCode SQL 50** learning path. After learning SQL basics to better equip me for my role, I'm working on mastering intermediate and advanced SQL concepts by solving real-world challenges and documenting my progress, solutions and insights here.
 
 ---
 
@@ -9,6 +9,12 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 - Build fluency in SQL by solving real-world-style problems
 - Practice techniques used in interviews and data projects
 - Maintain a clear, public portfolio of learning and growth
+
+---
+
+## Progress
+- ✅ 11 out of 50 problems completed  
+- 📅 Started: 2025-05-30
 
 ---
 
@@ -46,6 +52,12 @@ Each problem includes:
 
 ---
 
+## 🧠 Challenges & Insights
+
+### 197. Rising Temperature
+
+---
+
 ## ✨ In Progress - Problems I Can't Solve YET
 
 I'll be completing all 50 problems, exploring variations and adding commentary to explain how I think through each challenge.
@@ -56,3 +68,8 @@ I'll be completing all 50 problems, exploring variations and adding commentary t
 | [1661](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | Average Time of Process per Machine | Finding the average process time of each machine from start and end timestamps |
 | [1280](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) | Students and Examinations | Can't get results to include rows where students attended 0 exams |
 
+---
+
+## 📚 Resources
+
+- [SQLBolt](https://sqlbolt.com/) - free tutorial covering basic syntax, joins and aggregates, as well as basic SQL used in database management
