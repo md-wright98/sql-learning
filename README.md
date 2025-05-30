@@ -23,18 +23,12 @@ This repo is part of my learning journey — it's a collection of SQL challenges
 ## 📁 Repo Structure
 
 /sql/
-├── joins/
-├── aggregates/
-├── filters/
-├── window_functions/
-├── case_when/
-├── ctes/
-
-
-Each folder contains SQL scripts or Jupyter notebooks with:
-- The problem description
-- The SQL query
-- A brief explanation of the logic used
+├── 
+├── 
+├── 
+├── 
+├── 
+├── 
 
 ---
 
