@@ -58,18 +58,6 @@ Each problem includes:
 
 ---
 
-## ✨ In Progress - Problems I Can't Solve YET
-
-I'll be completing all 50 problems, exploring variations and adding commentary to explain how I think through each challenge.
-
-| # | Title | Problem |
-|---|-------|----------|
-| [197](https://leetcode.com/problems/rising-temperature/?envType=study-plan-v2&envId=top-sql-50) | Rising Temperature | Finding days where the temperature was hotter than the day before |
-| [1661](https://leetcode.com/problems/average-time-of-process-per-machine/?envType=study-plan-v2&envId=top-sql-50) | Average Time of Process per Machine | Finding the average process time of each machine from start and end timestamps |
-| [1280](https://leetcode.com/problems/students-and-examinations/?envType=study-plan-v2&envId=top-sql-50) | Students and Examinations | Can't get results to include rows where students attended 0 exams |
-
----
-
 ## 📚 Resources
 
 - [SQLBolt](https://sqlbolt.com/) - free tutorial covering basic syntax, joins and aggregates, as well as basic SQL used in database management
