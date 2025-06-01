@@ -61,3 +61,4 @@ Each problem includes:
 ## 📚 Resources
 
 - [SQLBolt](https://sqlbolt.com/) - free tutorial covering basic syntax, joins and aggregates, as well as basic SQL used in database management
+- [Learn SQL Beginner to Advanced in Under 4 Hours](https://www.youtube.com/watch?v=OT1RErkfLNQ) - Tutorial video by Alex the Analyst covering SQL basics as well as deeper topics like string functions, CASE statements, CTEs, window functions and subqueries
