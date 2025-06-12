@@ -13,7 +13,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 ---
 
 ## 📈 Progress
-- ✅ 11 out of 50 problems completed  
+- ✅ 12 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
 ---
@@ -42,6 +42,7 @@ Each problem includes:
 | [577](https://leetcode.com/problems/employee-bonus/description/?envType=study-plan-v2&envId=top-sql-50) | Employee Bonus | `LEFT JOIN`, joins |
 | [620](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | Not Boring Movies | filtering, ordering |
 | [1075](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50) | Project Employees I | `AVG`, aggregates |
+| [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50) | Number of Unique Subjects Taught by Each Teacher | `DISTINCT`, `GROUP BY` | 
 ---
 
 ## 🛠️ Tech Used
