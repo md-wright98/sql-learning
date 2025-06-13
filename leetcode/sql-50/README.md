@@ -13,7 +13,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 ---
 
 ## 📈 Progress
-- ✅ 14 out of 50 problems completed  
+- ✅ 15 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
 ---
@@ -45,6 +45,7 @@ Each problem includes:
 | [2356](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/?envType=study-plan-v2&envId=top-sql-50) | Number of Unique Subjects Taught by Each Teacher | `DISTINCT`, `GROUP BY` | 
 | [1141](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/?envType=study-plan-v2&envId=top-sql-50) | User Activity for the Past 30 Days I | `DATEDIFF`, `DISTINCT` |
 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/submissions/1663014064/?envType=study-plan-v2&envId=top-sql-50) | Product Sales Analysis III | `RANK()`, subqueries |
+| [596](leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Classes With at Least 5 Students | `HAVING` |
 ---
 
 ## 🛠️ Tech Used
