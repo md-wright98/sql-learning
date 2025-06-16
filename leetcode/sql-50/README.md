@@ -13,7 +13,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 ---
 
 ## 📈 Progress
-- ✅ 16 out of 50 problems completed  
+- ✅ 17 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
 ---
@@ -47,6 +47,7 @@ Each problem includes:
 | 14 | [1070](https://leetcode.com/problems/product-sales-analysis-iii/submissions/1663014064/?envType=study-plan-v2&envId=top-sql-50) | Product Sales Analysis III | `RANK()`, subqueries |
 | 15 | [596](leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Classes With at Least 5 Students | `HAVING` |
 | 16 | [1729](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Find Followers Count | grouping, ordering |
+| 17 | [197](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Rising Temperature | `DATEDIFF`, self joins |
 ---
 
 ## 🛠️ Tech Used
