@@ -13,7 +13,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 ---
 
 ## 📈 Progress
-- ✅ 17 out of 50 problems completed  
+- ✅ 18 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
 ---
@@ -48,6 +48,7 @@ Each problem includes:
 | 15 | [596](leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Classes With at Least 5 Students | `HAVING` |
 | 16 | [1729](https://leetcode.com/problems/classes-with-at-least-5-students/description/?envType=study-plan-v2&envId=top-sql-50) | Find Followers Count | grouping, ordering |
 | 17 | [197](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Rising Temperature | `DATEDIFF`, self joins |
+| 18 | [1661](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | Average Time of Proccess per Machine | `ROUND`, subqueries |
 ---
 
 ## 🛠️ Tech Used
