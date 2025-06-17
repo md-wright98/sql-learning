@@ -13,7 +13,7 @@ This repo is a structured record of my progress through the **LeetCode SQL 50** 
 ---
 
 ## 📈 Progress
-- ✅ 19 out of 50 problems completed  
+- ✅ 20 out of 50 problems completed  
 - 📅 Started: 2025-05-30
 
 ---
@@ -50,6 +50,7 @@ Each problem includes:
 | 17 | [197](https://leetcode.com/problems/rising-temperature/description/?envType=study-plan-v2&envId=top-sql-50) | Rising Temperature | `DATEDIFF`, self joins |
 | 18 | [1661](https://leetcode.com/problems/average-time-of-process-per-machine/description/?envType=study-plan-v2&envId=top-sql-50) | Average Time of Proccess per Machine | `ROUND`, subqueries |
 | 19 | [1280](https://leetcode.com/problems/students-and-examinations/description/?envType=study-plan-v2&envId=top-sql-50) | Students and Examinations | `CROSS JOIN` |
+| 20 | [570](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/?envType=study-plan-v2&envId=top-sql-50) | Managers with at Least 5 Direct Reports | self joins, `HAVING` |
 ---
 
 ## 🛠️ Tech Used
